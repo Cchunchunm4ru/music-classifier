@@ -1,0 +1,4 @@
+Data/*
+myenv/*
+__pycache__/*
+.venv/*
